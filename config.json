@@ -1,0 +1,14 @@
+{
+  "prefix": ".",
+  "greetNewMembers": {
+        "enabled": true,
+        "gifUrl": "https://tinyurl.com/2c9dep5m"
+  },
+  "port": "8080",
+  "owner": "David Cyril",
+  "owner_id": 7109304074,
+  "token": "7309410377:AAE-Fkm68iqUmdwoGborYqJ3RYD8RHe96RQ",
+  "age": "18",
+  "gender": "male",
+  "country": "Nigeria"
+}
